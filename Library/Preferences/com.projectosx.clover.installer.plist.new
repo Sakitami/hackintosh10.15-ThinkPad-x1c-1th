@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>org.clover.drivers64uefi.mandatory.apfsdriverloader.uefi</key>
+	<true/>
+	<key>org.clover.drivers64uefi.mandatory.aptiomemoryfix.uefi</key>
+	<true/>
+	<key>org.clover.drivers64uefi.mandatory.hfsplus.uefi</key>
+	<true/>
+	<key>org.clover.target.esp</key>
+	<true/>
+	<key>org.clover.themes.catalina</key>
+	<true/>
+	<key>org.clover.themes.hackintosh.id</key>
+	<true/>
+	<key>org.clover.themes.mac.default.v</key>
+	<true/>
+	<key>org.clover.themes.simplethemedark</key>
+	<true/>
+	<key>org.clover.uefi.only</key>
+	<true/>
+</dict>
+</plist>
