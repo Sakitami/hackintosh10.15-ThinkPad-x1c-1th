@@ -25,8 +25,15 @@
 
 
 - 电池补丁
+
+  ![](https://cdn.jsdelivr.net/gh/Sakitami/Figurebed/img/battery.webp)
+
 - 仿冒声卡（注入id=6）
+
+  ![](https://cdn.jsdelivr.net/gh/Sakitami/Figurebed/img/alc269.webp)
+
 - 无线网卡驱动（usb无线网卡）
+
 - 睡眠/关机/重启正常
 
 
