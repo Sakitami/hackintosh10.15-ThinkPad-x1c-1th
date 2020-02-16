@@ -15,7 +15,7 @@
 				<key>AddHDMI</key>
 				<false/>
 				<key>AddPNLF</key>
-				<false/>
+				<true/>
 				<key>FixHPET</key>
 				<true/>
 				<key>FixIPIC</key>
@@ -600,7 +600,7 @@
 				<key>Name</key>
 				<string>IOUSBHostFamily</string>
 				<key>Replace</key>
-				<data>g/s/D///Gw==</data>
+				<data>g/s/Dw==</data>
 			</dict>
 		</array>
 	</dict>
